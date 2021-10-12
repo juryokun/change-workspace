@@ -1,0 +1,4 @@
+{
+    "base": "data/workspace.code-workspace",
+    "target": "data/data.json"
+}
